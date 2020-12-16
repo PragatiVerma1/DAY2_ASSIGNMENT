@@ -1,0 +1,7 @@
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\bin\Debug\ProjectPrime.exe.config
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\bin\Debug\ProjectPrime.exe
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\bin\Debug\ProjectPrime.pdb
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\obj\Debug\ProjectPrime.csprojAssemblyReference.cache
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\obj\Debug\ProjectPrime.csproj.CoreCompileInputs.cache
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\obj\Debug\ProjectPrime.exe
+D:\LTI\DevOps\Day2_ASSIGNMENT\ProjectPrime\ProjectPrime\obj\Debug\ProjectPrime.pdb
